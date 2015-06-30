@@ -13,6 +13,10 @@ leaving the rest of the basic page exactly the same. The footer is
 cross-browser tested and supports Skeleton-based responsive columns
 and sizing.
 
+No changes are made to Skeleton itself. The index.html demo page has
+just been made more practical. When new versions of Skeleton are
+released, this approach should continue to work.
+
 Special thanks to [Kyle Powers][kp] for his help. All the
 modifications to the baseline Skeleton are released under [CC0][cc0].
 Skeleton itself is MIT-licensed.
